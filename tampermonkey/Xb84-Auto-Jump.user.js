@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  automatic jump to xunlei if opened.
 // @author       Jason.lu
-// @match        https://www.xb84.cc/bdhd/*
+// @match        https://www.xb.cc/bdhd/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=xb84.cc
 // @grant        none
 // ==/UserScript==
